@@ -34,10 +34,13 @@ This repository contains a Streamlit app that provides advanced stock price visu
 - [pandas](https://pypi.org/project/pandas/)
 - [plotly](https://pypi.org/project/plotly/)
 
+![image](https://github.com/user-attachments/assets/5335f0af-088a-402c-8556-5968cdd8cdb6)
+
+
 You can install the required libraries using pip:
 
 ```bash
 pip install yfinance streamlit pandas plotly
 
 
-![image](https://github.com/user-attachments/assets/9a78bba7-73b5-42d0-bca6-cc319f00a713)
+
